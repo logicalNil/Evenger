@@ -1,1 +1,1 @@
-# Evenger
+# Evenger - A Event Manager
