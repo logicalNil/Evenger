@@ -1,1 +1,1 @@
-# Evenger - A Event Manager with Attendence System
+# Evenger - A Event Manager with Attendence System for Events
