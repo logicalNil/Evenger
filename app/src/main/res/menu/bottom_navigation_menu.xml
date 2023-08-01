@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/eventFragment"
+        android:icon="@drawable/outline_event_24"
+        android:title="@string/event" />
+
+    <item
+        android:id="@id/attendanceFragment"
+        android:icon="@drawable/ic_attendance"
+        android:title="@string/attendance" />
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510506517048",
+    "project_id": "evenger-4130a",
+    "storage_bucket": "evenger-4130a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510506517048:android:44de2784f37ee26291dccd",
+        "android_client_info": {
+          "package_name": "com.nilay.evenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510506517048-f5cjcjs0q4uvv0g91mc81u74b047chvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXlAk8SglCM3rNKjk27YtQUe74YkWAo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510506517048-6qmfn4rbc3bg5nr2ubf1bfi2hoq05igj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+    "data" : [
+        {
+            "subject" : "Mobile Application Design and Development",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "SHOLA USHA RANI",
+            "credits" : 4
+        },
+        {
+            "subject" : "Soft Computing",
+            "total_class" : 23,
+            "present" : 20,
+            "teacher" : "PRIYADARSHINI J",
+            "credits" : 4
+        },
+        {
+            "subject" : "Cloud Computing",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "GAYATHRI R",
+            "credits" : 4
+        },
+        {
+            "subject" : "Advanced Software Testing",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "MADHESWARI",
+            "credits" : 4
+        },
+        {
+            "subject" : "English for Science and Technology",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "SARADHA RAJKUMAR",
+            "credits" : 2
+        },
+        {
+            "subject" : "Problem solving with Data structures and Algorithms",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "SENDHIL R",
+            "credits" : 4
+        },
+        {
+            "subject" : "Data Communication and Networking",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "KARMEL A",
+            "credits" : 3
+        },
+        {
+            "subject" : "Database Technologies",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "GRACELINE JASMINE S",
+            "credits" : 4
+        },
+        {
+            "subject" : "Applied Statistical Methods",
+            "total_class" : 10,
+            "present" : 8,
+            "teacher" : "DAVID MAXIM GURURAJ A",
+            "credits" : 3
+        }
+    ]
+}
