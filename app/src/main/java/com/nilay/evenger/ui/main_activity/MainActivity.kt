@@ -43,9 +43,9 @@ class MainActivity : AppCompatActivity(), DrawerState {
                 R.id.nav_lms -> openCustomChromeTab("https://lms.vit.ac.in/login/index.php")
 
                 // TODO : Change the links and then remove the comments
-                R.id.nav_github -> openCustomChromeTab("https://github.com/logicalNil/Evenger_Android")
-                R.id.nav_whats_new -> openCustomChromeTab("https://github.com/logicalNil/Evenger_Android/releases")
-                R.id.nav_issue -> openCustomChromeTab("https://github.com/logicalNil/Evenger_Android/issues")
+                R.id.nav_github -> openCustomChromeTab("https://github.com/logicalNil/Evenger")
+                R.id.nav_whats_new -> openCustomChromeTab("https://github.com/logicalNil/Evenger/releases")
+                R.id.nav_issue -> openCustomChromeTab("https://github.com/logicalNil/Evenger/issues")
                 else -> NavigationUI.onNavDestinationSelected(item, navController)
             }
             changeState()
