@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<!--
-  ~ BIT Lalpur App
-  ~
-  ~ Created by Ayaan on 2/13/22, 10:50 PM
-  ~ Copyright (c) 2022 . All rights reserved.
-  ~ Last modified 2/13/22, 8:57 PM
-  -->
 
 <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
