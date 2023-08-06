@@ -59,6 +59,7 @@ dependencies {
     releaseImplementation(libs.firebase.crashlytics.ktx)
     implementation(libs.firebase.firestore.ktx)
     implementation(libs.firebase.common.ktx)
+    implementation(libs.firebase.messaging.ktx)
     kapt(libs.hilt.android.compiler)
 
     implementation(libs.room.ktx)

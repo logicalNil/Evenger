@@ -17,3 +17,7 @@ enum class SharePrefKeys {
 enum class AppTheme { Light, Dark, Sys }
 
 const val BASE_URL = "https://logicalnil.github.io/Evenger_Android/"
+
+const val CHANNEL_ID = "Evenger"
+const val CHANNEL_NAME = "Evenger Notification"
+const val CHANNEL_DESCRIPTION = "Evenger Notification Channel"
